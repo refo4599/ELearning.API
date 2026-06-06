@@ -1,0 +1,33 @@
+E:\ELearning\ELearning.Domain\bin\Debug\net8.0\ELearning.Domain.deps.json
+E:\ELearning\ELearning.Domain\bin\Debug\net8.0\ELearning.Domain.dll
+E:\ELearning\ELearning.Domain\bin\Debug\net8.0\ELearning.Domain.pdb
+E:\ELearning\ELearning.Domain\obj\Debug\net8.0\ELearning.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\ELearning\ELearning.Domain\obj\Debug\net8.0\ELearning.Domain.AssemblyInfoInputs.cache
+E:\ELearning\ELearning.Domain\obj\Debug\net8.0\ELearning.Domain.AssemblyInfo.cs
+E:\ELearning\ELearning.Domain\obj\Debug\net8.0\ELearning.Domain.csproj.CoreCompileInputs.cache
+E:\ELearning\ELearning.Domain\obj\Debug\net8.0\ELearning.Domain.dll
+E:\ELearning\ELearning.Domain\obj\Debug\net8.0\refint\ELearning.Domain.dll
+E:\ELearning\ELearning.Domain\obj\Debug\net8.0\ELearning.Domain.pdb
+E:\ELearning\ELearning.Domain\obj\Debug\net8.0\ref\ELearning.Domain.dll
+E:\My Project\ELearning\ELearning.Domain\bin\Debug\net8.0\ELearning.Domain.deps.json
+E:\My Project\ELearning\ELearning.Domain\bin\Debug\net8.0\ELearning.Domain.dll
+E:\My Project\ELearning\ELearning.Domain\bin\Debug\net8.0\ELearning.Domain.pdb
+E:\My Project\ELearning\ELearning.Domain\obj\Debug\net8.0\ELearning.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Project\ELearning\ELearning.Domain\obj\Debug\net8.0\ELearning.Domain.AssemblyInfoInputs.cache
+E:\My Project\ELearning\ELearning.Domain\obj\Debug\net8.0\ELearning.Domain.AssemblyInfo.cs
+E:\My Project\ELearning\ELearning.Domain\obj\Debug\net8.0\ELearning.Domain.csproj.CoreCompileInputs.cache
+E:\My Project\ELearning\ELearning.Domain\obj\Debug\net8.0\ELearning.Domain.dll
+E:\My Project\ELearning\ELearning.Domain\obj\Debug\net8.0\refint\ELearning.Domain.dll
+E:\My Project\ELearning\ELearning.Domain\obj\Debug\net8.0\ELearning.Domain.pdb
+E:\My Project\ELearning\ELearning.Domain\obj\Debug\net8.0\ref\ELearning.Domain.dll
+E:\My Project\ELearning\Backend\ELearning.Domain\bin\Debug\net8.0\ELearning.Domain.deps.json
+E:\My Project\ELearning\Backend\ELearning.Domain\bin\Debug\net8.0\ELearning.Domain.dll
+E:\My Project\ELearning\Backend\ELearning.Domain\bin\Debug\net8.0\ELearning.Domain.pdb
+E:\My Project\ELearning\Backend\ELearning.Domain\obj\Debug\net8.0\ELearning.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Project\ELearning\Backend\ELearning.Domain\obj\Debug\net8.0\ELearning.Domain.AssemblyInfoInputs.cache
+E:\My Project\ELearning\Backend\ELearning.Domain\obj\Debug\net8.0\ELearning.Domain.AssemblyInfo.cs
+E:\My Project\ELearning\Backend\ELearning.Domain\obj\Debug\net8.0\ELearning.Domain.csproj.CoreCompileInputs.cache
+E:\My Project\ELearning\Backend\ELearning.Domain\obj\Debug\net8.0\ELearning.Domain.dll
+E:\My Project\ELearning\Backend\ELearning.Domain\obj\Debug\net8.0\refint\ELearning.Domain.dll
+E:\My Project\ELearning\Backend\ELearning.Domain\obj\Debug\net8.0\ELearning.Domain.pdb
+E:\My Project\ELearning\Backend\ELearning.Domain\obj\Debug\net8.0\ref\ELearning.Domain.dll
